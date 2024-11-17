@@ -376,6 +376,7 @@ a:focus {
   height: 100%;
   z-index: 0; 
   overflow: hidden;
+  background-color: navy;
 }
 
 .slider_section .slider_bg_box img {
@@ -998,6 +999,7 @@ color: white !important;
 .footer_section {
   position: relative;
   text-align: center;
+  background-color: navy;
 }
 
 .footer_section p {
